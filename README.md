@@ -15,3 +15,7 @@ Aba2 - Planilha com formula para perfil do investidor
 4. Veja os resultados na própia planilha
 ## Observação
 A planilha pode ser usada por qualquer pessoa, o manuseio é simples.
+## Autor
+Wilson Roberto Pereira
+## Licença
+Uso livre.
